@@ -1,0 +1,7 @@
+<?php 
+class Mobil {
+}
+$lamborghini = new Mobil ();
+$lexus = new Mobil ();
+$ferrari = new Mobil ();
+?>
